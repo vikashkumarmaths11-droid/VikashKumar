@@ -87,3 +87,21 @@ padding:25px;
 border-radius:15px;
 margin-top:25px;
 }
+<!DOCTYPE html>
+<html><head><title>Contact</title>
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<nav>
+<a href="index.html">Home</a>
+<a href="papers.html">Papers</a>
+<a href="contact.html">Contact</a>
+</nav>
+<div class="container">
+<div class="card">
+<h1>Contact</h1>
+<p>Name: Vikash Kumar</p>
+<p>Research Area: Number Theory & Fermat's Last Theorem</p>
+<p>Email: Add your email here</p>
+</div>
+</div>
+</body></html>
