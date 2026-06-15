@@ -1,1 +1,7 @@
-
+<!DOCTYPE html><html><head><title>Vikash Kumar | Mathematics Research</title>
+<link rel='stylesheet' href='style.css'>
+<script src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'></script>
+</head><body><header><h1>Vikash Kumar</h1><p>Mathematics Researcher</p>
+<nav><a href='index.html'>Home</a><a href='papers.html'>Papers</a><a href='about.html'>About</a><a href='contact.html'>Contact</a></nav></header>
+<main><h2>Research Interests</h2><p>Number Theory, Geometry, Diophantine Equations, Fermat's Last Theorem.</p>
+<p>Example equation: \(x^n+y^n=z^n\)</p></main></body></html>
