@@ -1,51 +1,146 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Vikash Coaching Centre</title>
-<link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Vikash Coaching Centre - Expert IIT-JEE and NEET Physics coaching with experienced faculty">
+  <meta name="keywords" content="IIT-JEE, NEET, Physics coaching, online classes">
+  <title>Vikash Coaching Centre - Physics Coaching for IIT-JEE & NEET</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<header>
-<nav>
-<a href="index.html">Home</a>
-<a href="courses.html">Courses</a>
-<a href="papers.html">Research Papers</a>
-<a href="contact.html">Contact</a>
-</nav>
-</header>
+  <!-- Navigation Header -->
+  <header class="header">
+    <nav class="navbar">
+      <div class="logo">
+        <h1>Vikash Coaching</h1>
+      </div>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="courses.html">Courses</a></li>
+        <li><a href="papers.html">Research Papers</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<section class="hero">
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <img src="https://github.com/user-attachments/assets/19639b81-66ab-4726-9194-7c603d3123e2" alt="Vikash Kumar - Physics Faculty" class="profile-image">
+      
+      <div class="hero-text">
+        <h1>Vikash Coaching Centre</h1>
+        <h2>IIT-JEE & NEET Physics Faculty</h2>
+        <p>Dedicated coaching for Physics with strong conceptual understanding, problem-solving skills, and competitive exam preparation.</p>
+        <div class="cta-buttons">
+          <a href="courses.html" class="btn btn-primary">Explore Courses</a>
+          <a href="contact.html" class="btn btn-secondary">Get in Touch</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<img src="https://github.com/user-attachments/assets/19639b81-66ab-4726-9194-7c603d3123e2" alt="Vikash Profile" class="profile">
+  <!-- Main Content -->
+  <main class="container">
+    
+    <!-- About Section -->
+    <section class="about-section">
+      <div class="card about-card">
+        <h2>About Me</h2>
+        <p>I am a Physics educator specializing in IIT-JEE and NEET preparation. My teaching focuses on conceptual clarity, numerical problem solving, and strong foundations in Physics. With years of experience, I have helped hundreds of students achieve their dream scores.</p>
+      </div>
+    </section>
 
-<h1>Vikash Coaching Centre</h1>
+    <!-- Features Section -->
+    <section class="features">
+      <h2>Why Choose Vikash Coaching?</h2>
+      <div class="features-grid">
+        
+        <div class="card feature-card">
+          <div class="feature-icon">📚</div>
+          <h3>Structured Curriculum</h3>
+          <p>Comprehensive coverage of IIT-JEE and NEET Physics with systematic progression from basics to advanced topics.</p>
+        </div>
 
-<h2>IIT-JEE & NEET Physics Faculty</h2>
+        <div class="card feature-card">
+          <div class="feature-icon">💡</div>
+          <h3>Conceptual Learning</h3>
+          <p>Focus on understanding fundamental concepts rather than rote memorization for lasting knowledge.</p>
+        </div>
 
-<p>
-Dedicated coaching for Physics with strong conceptual understanding,
-problem-solving skills, and competitive exam preparation.
-</p>
+        <div class="card feature-card">
+          <div class="feature-icon">🎯</div>
+          <h3>Problem Solving</h3>
+          <p>Extensive practice with varied problem types to develop analytical and critical thinking skills.</p>
+        </div>
 
-</section>
+        <div class="card feature-card">
+          <div class="feature-icon">📊</div>
+          <h3>Progress Tracking</h3>
+          <p>Regular assessments and detailed feedback to monitor your performance and identify areas for improvement.</p>
+        </div>
 
-<div class="container">
+        <div class="card feature-card">
+          <div class="feature-icon">⏱️</div>
+          <h3>Exam Techniques</h3>
+          <p>Strategies for time management and smart answering to maximize your exam score.</p>
+        </div>
 
-<div class="card">
-<h2>About Me</h2>
+        <div class="card feature-card">
+          <div class="feature-icon">👥</div>
+          <h3>Personalized Guidance</h3>
+          <p>Individual attention and customized learning paths based on your strengths and weaknesses.</p>
+        </div>
 
-<p>
-I am a Physics educator specializing in IIT-JEE and NEET preparation.
-My teaching focuses on conceptual clarity, numerical problem solving,
-and strong foundations in Physics.
-</p>
+      </div>
+    </section>
 
-</div>
+    <!-- Statistics Section -->
+    <section class="stats">
+      <h2>Our Track Record</h2>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <h3>500+</h3>
+          <p>Students Coached</p>
+        </div>
+        <div class="stat-card">
+          <h3>95%</h3>
+          <p>Success Rate</p>
+        </div>
+        <div class="stat-card">
+          <h3>10+</h3>
+          <p>Years Experience</p>
+        </div>
+        <div class="stat-card">
+          <h3>4.9/5</h3>
+          <p>Average Rating</p>
+        </div>
+      </div>
+    </section>
 
-</div>
+    <!-- CTA Section -->
+    <section class="cta-section">
+      <h2>Ready to Excel in Physics?</h2>
+      <p>Start your journey towards success with personalized coaching and expert guidance.</p>
+      <a href="contact.html" class="btn btn-primary btn-large">Contact Us Today</a>
+    </section>
 
-<footer>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p>&copy; 2026 Vikash Coaching Centre. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms of Service</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>
+  </footer>
+
 © 2026 Vikash Coaching Centre
 </footer>
 
