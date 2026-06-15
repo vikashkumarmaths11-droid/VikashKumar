@@ -17,8 +17,7 @@
 
 <section class="hero">
 
-<img width="1085" height="1450" alt="1000032078" src="https://github.com/user-attachments/assets/19639b81-66ab-4726-9194-7c603d3123e2" />
-
+<img src="https://github.com/user-attachments/assets/19639b81-66ab-4726-9194-7c603d3123e2" alt="Vikash Profile" class="profile">
 
 <h1>Vikash Coaching Centre</h1>
 
@@ -52,3 +51,4 @@ and strong foundations in Physics.
 
 </body>
 </html>
+
