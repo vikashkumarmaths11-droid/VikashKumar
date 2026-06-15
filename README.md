@@ -1,4 +1,24 @@
 <!DOCTYPE html>
+<html><head><title>Papers</title>
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<nav>
+<a href="index.html">Home</a>
+<a href="papers.html">Papers</a>
+<a href="contact.html">Contact</a>
+</nav>
+<div class="container">
+<div class="card">
+<h1>Research Papers</h1>
+<p>Add your research paper PDFs here.</p>
+<ul>
+<li>Geometric Approach to Fermat's Last Theorem</li>
+<li>Triangle-Based Analysis of Higher Exponents</li>
+</ul>
+</div>
+</div>
+</body></html>
+<!DOCTYPE html>
 <html><head><title>Vikash Kumar - Mathematics Research</title>
 <link rel="stylesheet" href="style.css"></head>
 <body>
